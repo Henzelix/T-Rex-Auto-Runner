@@ -4,4 +4,4 @@ T-Rex Auto Runner is an Arduino script for Google Chrome T-Rex Run game. Using m
 Demonstartion video: https://i.imgur.com/FcxfcvR.mp4
 
 # How does it work?
-Photoresistor gets light level from the screen and if it gets a lesser value (cactus)
+Photoresistor gets light level from the screen (white background) and if it gets a value below average (cactus) it sends a signal to micro servo to move propeller which clicks a spacebar, then Dino jumps.
