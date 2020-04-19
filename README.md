@@ -5,3 +5,15 @@ Demonstartion video: https://i.imgur.com/FcxfcvR.mp4
 
 # How does it work?
 Photoresistor gets light level from the screen (white background) and if it gets a value below average (cactus) it sends a signal to micro servo to move propeller which clicks a spacebar, then Dino jumps.
+
+# How can I build it?
+If you want to build it, you would need.
+
+1. Any Arduino with 5V power output (I used Arduino Uno),
+1. 220 Ohm resistor (I used this one, but you can also use different ones. I recommend checking out this guy's video: https://youtu.be/INekoMGeXac,
+1. Some wires,
+1. Breadboard,
+1. Photoresesitor,
+1. Tower Pro micro servo SG90
+
+Circuit for this project (circuit created with [Tinkercad](https://tinkercad.com)):
