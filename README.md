@@ -30,4 +30,8 @@ Circuit for this project (circuit created with [Tinkercad](https://tinkercad.com
    1. your screen brightness,
    1. your display,
    1. yours monitor refresh rate,
-   1. resistor and power you used for photoresistor
+   1. resistor and power you used for photoresistor.
+1. Lauch the code on your Arduino.
+1. Have fun! Now with your setup, Dino will go ad infinitum!
+
+#  Share your setup and highscore by mentioning me on GitHub: @Henzelix or on Instagram: @mikolajhenzel
