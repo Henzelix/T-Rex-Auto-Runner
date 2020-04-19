@@ -17,4 +17,4 @@ If you want to build it, you would need:
 1. Tower Pro micro servo SG90.
 
 Circuit for this project (circuit created with [Tinkercad](https://tinkercad.com)):
-![](T-Rex Auto Runner.png)
+![Circuit](T-Rex Auto Runner.png)
