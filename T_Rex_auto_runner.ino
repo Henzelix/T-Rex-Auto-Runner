@@ -25,5 +25,5 @@ void loop() {
   else{   //If lightLevel is the same or greater than [minimal light value of your game's white background] do...
     servo.write(76);  //Stay at the starting position
   }
-  delay(10);  //Pause between functions (every delay is in milliseconds)
+  delay(10);  //Pause between functions (every delay is in milliseconds. If it doesn't work for you, you can also adjust that.)
 }
