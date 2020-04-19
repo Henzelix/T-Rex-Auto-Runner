@@ -26,8 +26,8 @@ Circuit for this project (circuit created with [Tinkercad](https://tinkercad.com
 1. Place photoresistor at that distance from Dino, that if it detects cactus, it immediately clicks spacebar.
 1. Place servo properly on your spacebar, so the propeller can click it.
 1. Adjust code for your setup. It can various by:
-  1. your screen size,
-  1. your screen brightness,
-  1. your display,
-  1. yours monitor refresh rate,
-  1. resistor and power you used for photoresistor
+   1. your screen size,
+   1. your screen brightness,
+   1. your display,
+   1. yours monitor refresh rate,
+   1. resistor and power you used for photoresistor
